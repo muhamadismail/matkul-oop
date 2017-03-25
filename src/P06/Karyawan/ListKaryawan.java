@@ -2,6 +2,13 @@ package P06.Karyawan;
 
 /**
  * Created by Ismail on 21-Mar-17.
+ *
+ * @author Muhamad Ismail
+ * @pertemuan 06 (Praktek)
+ * @date 21 Maret 2017
+ * @tugas 01 & 02
+ * @desc Program untuk memasukan kumpulan nama karyawan, umur karyawan, dan gaji karyawan.
+ *       Kumpulan karyawan tersebut dapat diurutkan berdasarkan nama, umur, dan gaji.
  */
 
 import java.io.BufferedReader;

@@ -2,6 +2,13 @@ package P06.Karyawan;
 
 /**
  * Created by Ismail on 21-Mar-17.
+ *
+ * @author Muhamad Ismail
+ * @pertemuan 06 (Praktek)
+ * @date 21 Maret 2017
+ * @tugas 01 & 02
+ * @desc Class untuk Karyawan.Ia memiliki nama karyawan, umur karyawan, dan gaji karyawan.
+ *       Selain itu, ia juga memiliki method set dan get serta print
  */
 public class Karyawan {
     private String nama;
